@@ -1,9 +1,9 @@
-code I'm writing for a Node.js course on Udemy.comcd async
+Code I'm writing for a Node JS course on Udemy.com
 
 
-Folders
+Whats goin on in dem folders
 
-async: asyncranous programming 
+async: asyncranous programming, creating a weather app 
 
 password-manager: managing user input
 
